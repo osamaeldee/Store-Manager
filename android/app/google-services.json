@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377588042401",
+    "project_id": "ecommers-e76c4",
+    "storage_bucket": "ecommers-e76c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377588042401:android:4671d8b749095f97363ee0",
+        "android_client_info": {
+          "package_name": "com.example.ecommerse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfAlnpLP3JFtNJr-16b-mBVADRcHXdLS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377588042401:android:c9a28ab07ad29e96363ee0",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfAlnpLP3JFtNJr-16b-mBVADRcHXdLS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
